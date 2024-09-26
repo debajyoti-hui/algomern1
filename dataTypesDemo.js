@@ -10,3 +10,12 @@ console.log(productPrice);
 console.log(productDiscount);
 console.log(ProductName);
 console.log(isAvailable);
+
+let minusZero = -0;
+console.log(minusZero);
+
+let x;
+console.log(x);
+
+let y = null;
+console.log(y);
